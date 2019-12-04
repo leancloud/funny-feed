@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FunnyFeed</string>
+    <string name="tab_text_timeline">Timeline</string>
+    <string name="tab_text_explorer">Explorer</string>
+    <string name="tab_text_message">Messages</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">Name</string>
+    <string name="prompt_bio">Description(Optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up or Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="setting">Setting</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_publish">Publish</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Profile</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="user_name">Your name</string>
+    <string name="user_bio">Your bio</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Enable notification</string>
+    <string name="logout">Logout</string>
+    <string name="action_follow">Follow</string>
+    <string name="action_unfollow">UnFollow</string>
+</resources>
