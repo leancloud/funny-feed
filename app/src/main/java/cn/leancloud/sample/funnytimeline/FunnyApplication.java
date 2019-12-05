@@ -13,7 +13,7 @@ public class FunnyApplication extends Application {
     super.onCreate();
 
     // 提供 this、App ID、App Key、Server Host 作为参数
-    AVOSCloud.initializeSecurely(this, LC_APP_ID, "https://beta.leancloud.cn");
+    AVOSCloud.initializeSecurely(this, LC_APP_ID, "https://wso2m4g4.lc-cn-n1-shared.com");
     AVOSCloud.setLogLevel(AVLogger.Level.DEBUG);
   }
 }
